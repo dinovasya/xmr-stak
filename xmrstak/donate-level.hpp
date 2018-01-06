@@ -9,10 +9,10 @@
  *
  * If you plan on changing this setting to 0.0 please consider making a one off donation to our wallets:
  * fireice-uk:
- * 4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
+ * 4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQtftKaNqUAFAyJJ23o
  * psychocrypt:
- * 43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
+ * 4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQsS97fDi88bEbRngUF
  *
  */
 
-constexpr double fDevDonationLevel = 2.0 / 100.0;
+constexpr double fDevDonationLevel = 0.0 / 100.0;
